@@ -1,0 +1,23 @@
+{
+  "name": "h5p-691",
+  "version": "1.0.0",
+  "description": "convert old CP to Kidsloop CP that are subcontents",
+  "main": "index.js",
+  "scripts": {
+    "update":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Old",
+    "CP",
+    "to",
+    "Kidsloop",
+    "CP"
+  ],
+  "author": "Hari Rammohan Yedida",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mongodb": "^4.6.0"
+  }
+}
